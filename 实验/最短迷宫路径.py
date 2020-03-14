@@ -31,4 +31,4 @@ if __name__ == '__main__':
     if Min_step == n*n:
         print('No solution')
     else:
-        print('最短步长为', Min_step)
+        print(Min_step)
